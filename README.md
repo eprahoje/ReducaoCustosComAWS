@@ -33,11 +33,11 @@ A implementação dos serviços AWS na Abstergo Industries visa uma redução im
 ## Anexos
 > Links importantes sobre os serviços sugeridos para a implementação inicial
 <br>
-*[Amazon S3](https://aws.amazon.com/pt/s3/)*
+[Amazon S3](https://aws.amazon.com/pt/s3/)
 <br>
-*[Amazon Lambda](https://aws.amazon.com/pt/lambda/)*
+[Amazon Lambda](https://aws.amazon.com/pt/lambda/)
 <br>
-*[Amazon CloudWatch](https://aws.amazon.com/pt/cloudwatch/)*
+[Amazon CloudWatch](https://aws.amazon.com/pt/cloudwatch/)
 
 *Assinatura do Responsável pelo Projeto:*
 
