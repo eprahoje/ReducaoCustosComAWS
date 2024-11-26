@@ -38,7 +38,7 @@ A implementação dos serviços AWS na Abstergo Industries visa uma redução im
 [Amazon Lambda](https://aws.amazon.com/pt/lambda/)
 <br>
 [Amazon CloudWatch](https://aws.amazon.com/pt/cloudwatch/)
-
+<br>
 *Assinatura do Responsável pelo Projeto:*
 
 Gabriel Rodrigues.
